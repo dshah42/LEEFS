@@ -1,4 +1,4 @@
-# LEEFS_Python_Julia
+# LEEFS
 LEEFS Project(R/W-S3) - Phase 1
 
 In Phase 1, complete implementation of Python code is intended.
